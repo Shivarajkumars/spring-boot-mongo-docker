@@ -13,7 +13,7 @@ spec:
         name: javawebapp
     spec:
       containers:
-      - image: Shivarajkumars/spring-boot-mongo-docker
+      - image: shivarajkumars/spring-boot-mongo-docker
         name: javawebapp
         ports:
         - name: javawebapp
